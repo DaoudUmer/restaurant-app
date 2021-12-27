@@ -88,6 +88,7 @@ body {
   border: 2px solid #d2bdff;
   transition: all 0.1s linear;
   cursor: pointer;
+  user-select: none;
 }
 .button2:hover {
   border: 1px solid transparent;
